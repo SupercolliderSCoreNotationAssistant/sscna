@@ -2,7 +2,7 @@
 
 > SScNA (SuperSCoreNotationAssistant): a class for displaying proportional notation natively in SuperCollider.
 >
-<img src="https://github.com/claudiopanariello/SuperScore/blob/main/score_example.png" width="750" height="750">
+<img src="https://github.com/SupercolliderSCoreNotationAssistant/sscna/blob/main/score_example.png" width="750" height="750">
 
 ## Quickstart
 
